@@ -12,3 +12,6 @@ header {
 .cabecalho-lista-item{
     display: inline-block;
 }
+body{
+    background-color: darkblue;
+}
